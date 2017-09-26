@@ -50,3 +50,4 @@ Navigate to [http://localhost:4200/](http://localhost:4200/) in your browser
 
 _NOTE:_ The above setup instructions assume you have added local npm bin folders to your path.
 If this is not the case you will need to install the Angular CLI globally.
+# search-example
